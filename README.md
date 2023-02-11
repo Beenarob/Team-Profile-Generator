@@ -1,7 +1,7 @@
 // Team Profile Generator
 
 // What is it and how does it work?
-A command line application has been created that generates a software engineering team. The user will be prompted to provide details about the employees and team members, which can include managers, engineers, and interns. The application allows for any number of team members to be added. Once the team has been built, the application will create an HTML file that shows a well-organized team roster based on the user-provided information.
+A command line application that generates a software engineering team. The user will be prompted to provide details about the employees and team members, which can include managers, engineers, and interns. The application allows for any number of team members to be added. Once the team has been built, the application will create an HTML file that shows a well-organized team roster based on the user-provided information.
 
 For example:
 If you select "intern" you will need to fill out
